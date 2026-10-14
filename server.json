@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/modelcontextprotocol/registry/main/docs/reference/server-json/draft/server.schema.json",
+  "id": "com.projectwhitehole.oracle",
+  "name": "Whitehole",
+  "description": "Sovereign data oracle and zero-retention cryptographic proof substrate with automated SQLite ledger.",
+  "transport": {
+    "type": "http",
+    "url": "https://mindful-gentlenesss.up.railway.app/mcp"
+  },
+  "categories": [
+    "Databases",
+    "Cloud Infrastructure"
+  ],
+  "links": {
+    "repository": "https://github.com/projectwhitehole0-cmd/whitehole",
+    "homepage": "https://github.com/projectwhitehole0-cmd/whitehole"
+  }
+}
