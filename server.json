@@ -5,7 +5,7 @@
   "description": "Sovereign data oracle and zero-retention cryptographic proof substrate with automated SQLite ledger.",
   "transport": {
     "type": "http",
-    "url": "https://mindful-gentlenesss.up.railway.app/mcp"
+    "url": "https://whitehole-production.up.railway.app/mcp"
   },
   "categories": [
     "Databases",
